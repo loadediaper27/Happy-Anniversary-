@@ -1,10 +1,10 @@
 // Messages shown on the loading screen
 
 const messages = [
-    "Loading memories...",
-    "Finding the right words...",
+    "Loading...",
+    "Isnt this cool...",
     "Almost there...",
-    "Welcome, my love."
+    "Meow"
 ];
 
 const loadingMessage = document.getElementById("loading-message");
